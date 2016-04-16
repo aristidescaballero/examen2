@@ -1,1 +1,9 @@
 //Escribe los pasos para instalar y ejecutar ghost en windows
+Instalar Programas:
+-Phyton
+-Node
+-Pip
+-Bustet
+-npm
+
+Saludos...
