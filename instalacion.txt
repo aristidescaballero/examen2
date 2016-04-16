@@ -32,3 +32,12 @@ ejecutaremos en terminal el comando para instalar npm
 npm install --production
 despues de instalar el paquete ejecutaremos NPM con el comando
  npm start
+
+
+5. En un navegador, vaya a 127.0.0.1:2368 para ver ghost
+
+nos aparecera una ventana para realizar la configuracion por primera ves de ghost con la ruta http://127.0.0.1:2368/ghost/setup/one/
+
+6. daremos click en create yoour acount http://127.0.0.1:2368/ghost/setup/two/
+ agregaremos email, nombre completo, password y titulo de blog
+
