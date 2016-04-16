@@ -1,1 +1,19 @@
 //Escribe los pasos para instalar y ejecutar ghost en windows
+
+Instalación de Ghost
+
+requisitos para instalación
+
+
+python 2.7
+pip 
+node JS 
+npm
+buster
+nvm
+
+1 instalaremos python descargando el archivo de la web oficial  https://www.python.org/
+descargamos la version mas reciente y ejecutaremos 
+
+2 despues de esto descargaremos el archivo pip lo posicionaremos en el Escritorio, para instalar basta con dar doble click
+
