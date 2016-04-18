@@ -1,1 +1,0 @@
-//Escribe los pasos para instalar y ejecutar ghost en windows
