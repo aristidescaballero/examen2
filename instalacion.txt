@@ -1,1 +1,24 @@
 //Escribe los pasos para instalar y ejecutar ghost en windows
+Pasos para la instalacion de Ghost en Windowa 8.1
+Para poder instalar ghost en windows es necesario seguir los siguientes pasos y contar con los requisitos necesarios.
+1.-instalar python 2.7.x
+-Es necesario descargar phyton lo pudes encontrar en https://www.python.org/download/releases/2.7/
+1.2- se debe configurar la variable de entorno en configuracion avanzada de sistema en donde se debe copiar la direccion de la carpeta de instalacion de python  la cual debe ser separada por ";"  quedando asi la  ";C:\Python27\;C:\Python27\scripts\," variable de entorno en "path" de sistema.
+2.-instalar node 4.3.2
+-Node lo encuentras en https://nodejs.org/en/blog/release/v4.3.2/
+3.-instalar get.pip inserta el python en la carpeta de scripts
+4.-abrimos consola de node-js o el cmd 
+tecleamos python --version y nos muestra la version
+tecleamos pip --version y nos muestra la version
+5.-instalamos buster--> pip install buster
+tecleamos buster --version y nos muestra la version
+6.-instalamos wget-1.11.4
+reconfiguramos el path de wget con ; y la direccion ;C:\Program Files (x86)\GnuWin32\bin
+instalamos npm con -->npm install
+npm --version
+7.-Con esto  la instalacion para poder levantar ghost esta completa.
+
+
+
+
+
