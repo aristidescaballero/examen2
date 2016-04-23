@@ -1,1 +1,43 @@
 //Escribe los pasos para instalar y ejecutar ghost en windows
+
+Instalación de Ghost
+
+requisitos para instalación
+
+
+python 2.7
+pip 
+node JS 
+npm
+buster
+nvm
+
+1 instalaremos python descargando el archivo de la web oficial  https://www.python.org/
+descargamos la version mas reciente y ejecutaremos 
+
+2 despues de esto descargaremos el archivo pip lo posicionaremos en el Escritorio, para instalar basta con dar doble click
+
+3 instalar Node JS
+
+Para instalar el Nodo 0.10.40, visite http://nodejs.org/dist/v0.10.40/ y descargar el fichero 'msi'
+Haga clic en la descarga para abrir el instalador, esto va a instalar ambos node y NPM.
+ 
+4 descargar ghost desde https://ghost.org/download/
+desempaquetar
+
+una ves descargardo y desempaquetado buscaremos en terminal la carpeta donde se descomprimio
+ cd Downloads/ghost-#.#.# 
+
+ejecutaremos en terminal el comando para instalar npm
+npm install --production
+despues de instalar el paquete ejecutaremos NPM con el comando
+ npm start
+
+
+5. En un navegador, vaya a 127.0.0.1:2368 para ver ghost
+
+nos aparecera una ventana para realizar la configuracion por primera ves de ghost con la ruta http://127.0.0.1:2368/ghost/setup/one/
+
+6. daremos click en create yoour acount http://127.0.0.1:2368/ghost/setup/two/
+ agregaremos email, nombre completo, password y titulo de blog
+
