@@ -1,0 +1,19 @@
+1.-instalar python 2.7.x
+2.-instalar node 4.3.2
+2.1.-configurar la variable de entorno en configuracion avanzada de sistema copio la direccion de la carpeta de python separada por ";" ;C:\Python27\;C:\Python27\scripts\, variable de entorno path de sistema.
+3.-instalar get.pip insserta el python en la carpeta de scripts
+4.-abrimos consola de node-js o el cmd 
+tecleamos python --version y nos muestra la version
+tecleamos pip --version y nos muestra la version
+5.-instalamos buster--> pip install buster
+tecleamos buster --version y nos muestra la version
+6.-instalamos wget-1.11.4
+reconfiguramos el path de wget con ; y la direccion ;C:\Program Files\GnuWin32\;C:\Program Files\GnuWin32\bin
+instalamos npm con -->npm install
+npm --version
+7.-hasta aqui la instalacion para poder levantar ghost esta completa.
+
+
+
+
+
